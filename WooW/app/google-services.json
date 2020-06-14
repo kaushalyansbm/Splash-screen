@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221846264048",
+    "firebase_url": "https://woow-1586141151264.firebaseio.com",
+    "project_id": "woow-1586141151264",
+    "storage_bucket": "woow-1586141151264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221846264048:android:f38e456e2e4c71cabc4a35",
+        "android_client_info": {
+          "package_name": "com.example.woow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221846264048-390adclq8rfmk5grjpg26d7lod973ooc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.woow",
+            "certificate_hash": "d34290d0f6e21bfc77d0a452a132d07a902d76b0"
+          }
+        },
+        {
+          "client_id": "221846264048-ugstpj53qu2kcgktbgeqsmnuk73por80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbMi0qkgtNMw8IBrBQNv3HewB6CF7MMl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221846264048-ugstpj53qu2kcgktbgeqsmnuk73por80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
